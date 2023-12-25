@@ -116,6 +116,7 @@ line-height: 26px;
     display: flex; justify-content: space-between; align-items: center;
 }
 .details-title{
+    
     padding-left: 30px;
     color: var(--Dark-01, #131313);
 font-family: Work Sans;
@@ -210,6 +211,7 @@ margin-bottom: 10px;
     align-items: center;
     justify-content: space-around;
     flex-wrap: wrap;
+    filter: grayscale(100%);
     row-gap: 30px;
     margin: 70px 0;
 }
